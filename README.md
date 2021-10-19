@@ -16,5 +16,5 @@ Node.js no back-end e ReactJs no front-end, aos poucos me aventurando em React N
 
 ## ✨ Contato
 <img alt="License" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
-<a ><img alt="License" src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white></a>
+<a ><img alt="License" src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>https://www.linkedin.com/in/tarcisio-rodrigues-201263222</a>
 
