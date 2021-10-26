@@ -9,7 +9,10 @@ I really like programming and I'm always looking to improve myself and give my b
   Software Engineering Student
   Computer Technician
   Seeking to collaborate with projects in Back-end using Node, Front-end using React and Mobile using React Native
-  My stack: License,License,License
+  My stack:
+  NODEJS(Intermediary)
+  REACTJS(Benniger)
+  REACTNATIVE(Intermediary)
   About me: I enjoy technologies, games, series, movies and spending time with family and friends
 
 
