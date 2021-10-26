@@ -5,6 +5,10 @@
   ✨ Hey guys
 
 I really like programming and I'm always looking to improve myself and give my best. I'm a full-stack novice developer with Node.js tools on the back-end and ReactJs on the front-end, slowly venturing into React Native for mobile.
+  
+  Software Engineering Student
+  Computer Technician
+  Seeking to collaborate with projects in Back-end using Node, Front-end using React and Mobile using React Native
 </p>
 
 <p align="left">
