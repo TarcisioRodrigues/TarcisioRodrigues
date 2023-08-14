@@ -16,7 +16,7 @@ I really like programming and I'm always looking to improve myself and give my b
 </p>
 
 <p align="left">
-  💼 My Stack: <strong>NodeJS,ReactJS and React Native</strong>
+  💼 My Stack: <strong>NodeJS,ReactJS,React Native,VUEJS</strong>
 </p>
 
 <p align="left">
