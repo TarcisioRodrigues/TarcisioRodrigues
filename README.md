@@ -3,10 +3,10 @@
 <h1 align="center">Tarcisio Rodrigues</h1>
 
 <p align="center">
-  🚀 Full-Stack Developer | 🎓 Software Engineering Student | 💻 Computer Technician  
+  🚀 Full-Stack Developer | 🎓 Software Engineering Student 
 </p>
 
----
+
 
 ## 👋 About Me  
 ✨ Hello, world! I'm a **full-stack developer** passionate about coding, always seeking to improve and deliver high-quality solutions.  
@@ -15,7 +15,7 @@ Currently diving deeper into **Java Spring** and **Vue.js** to expand my skill s
 
 🔍 **Looking for opportunities** in **back-end, front-end, and mobile development** to contribute and grow!  
 
----
+
 
 ## 🛠 Tech Stack  
 
