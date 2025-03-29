@@ -1,39 +1,89 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador iuriCode">
 
 <h1 align="center">Tarcisio Rodrigues</h1>
-<p align="left"> 
-  ✨ Hey guys
 
-I really like programming and I'm always looking to improve myself and give my best. I'm a full-stack novice developer with Node.js tools on the back-end and ReactJs on the front-end, slowly venturing into React Native for mobile.
-  
-  Software Engineering Student,
-  Computer Technician,
-  Seeking to collaborate with projects in Back-end using Node, Front-end using React and Mobile using React Native
+<p align="center">
+  🚀 Full-Stack Developer | 🎓 Software Engineering Student | 💻 Computer Technician  
 </p>
 
+---
+
+## 👋 About Me  
+✨ Hello, world! I'm a **full-stack developer** passionate about coding, always seeking to improve and deliver high-quality solutions.  
+I specialize in **Node.js** for back-end and **React.js** for front-end, while also exploring **React Native** for mobile development.  
+Currently diving deeper into **Java Spring** and **Vue.js** to expand my skill set.  
+
+🔍 **Looking for opportunities** in **back-end, front-end, and mobile development** to contribute and grow!  
+
+---
+
+## 🛠 Tech Stack  
+
+### 🌍 Front-end  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)  
+
+### ⚙️ Back-end  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)  
+
+### 📱 Mobile  
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)  
+
+### 🔧 Languages  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
+
+---
+
+## 🛠 Tools & Frameworks  
+
+✅ **Database:** PostgreSQL, MySQL, MongoDB  
+✅ **ORMs:** Prisma, Sequelize  
+✅ **API Development:** REST, GraphQL  
+✅ **Authentication:** JWT, OAuth  
+✅ **Cloud & Deployment:** Docker, AWS, Firebase  
+✅ **Containerization:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
+✅ **Version Control:** Git, GitHub  
+
+---
+
+## 🚀 What I'm Learning  
+
+📌 **Advanced Back-end:** Microservices, NestJS  
+📌 **Cloud & DevOps:** CI/CD, Kubernetes  
+📌 **New Front-end Technologies:** Next.js  
+📌 **Mobile Improvements:** Native Modules in React Native  
+
+---
+
+## 🏆 Projects & Contributions  
+
+🔹 [Project 1 - API with Node.js & Prisma](#)  
+🔹 [Project 2 - Full-Stack App with React & Spring Boot](#)  
+🔹 [Project 3 - Mobile App with React Native](#)  
+
+More projects on my **GitHub**! 👇  
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SEU_GITHUB)  
+
+---
+
+## 📬 Contact  
+
 <p align="left">
-  🦄 Languages: <strong>Javascript,Typescript.</strong>
+  <a href="mailto:tarcisiorodrigues674@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/tarcisio-rodrigues-201263222/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=SEU_NUMERO">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/SEU_USUARIO">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
+  </a>
 </p>
-
-<p align="left">
-  💼 My Stack: <strong>NodeJS,ReactJS,React Native,VUEJS</strong>
-</p>
-
-<p align="left">
-  Contact
-</p>
-
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=tarcisiorodrigues674@gmail.com" /></a>
-
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarcisio-rodrigues-201263222/" /></a>
-
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>  
-
