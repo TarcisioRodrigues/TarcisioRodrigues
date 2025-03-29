@@ -7,8 +7,7 @@
 </p>
 
 
-
-## 👋 About Me  
+ 👋 About Me  
 ✨ Hello, world! I'm a **full-stack developer** passionate about coding, always seeking to improve and deliver high-quality solutions.  
 I specialize in **Node.js** for back-end and **React.js** for front-end, while also exploring **React Native** for mobile development.  
 Currently diving deeper into **Java Spring** and **Vue.js** to expand my skill set.  
